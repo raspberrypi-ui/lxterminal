@@ -7,190 +7,188 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxterminal\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-02 03:38+0200\n"
-"PO-Revision-Date: 2018-12-13 16:48+0000\n"
-"Last-Translator: mirek <mirek@cnl.sk>\n"
+"POT-Creation-Date: 2020-12-21 21:41+0100\n"
+"PO-Revision-Date: 2020-12-21 21:58+0100\n"
+"Last-Translator: Jose Riha <jose1711@gmail.com>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1544719732.980476\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-POOTLE-MTIME: 1404846947.000000\n"
 
 #. 0
-#: ../src/lxterminal.c:129
+#: ../src/lxterminal.c:121
 msgid "_File"
 msgstr "_Súbor"
 
 #. 1
-#: ../src/lxterminal.c:130
+#: ../src/lxterminal.c:122
 msgid "_Edit"
 msgstr "_Upraviť"
 
 #. 2
-#: ../src/lxterminal.c:131
+#: ../src/lxterminal.c:123
 msgid "_Tabs"
 msgstr "_Karty"
 
 #. 3
-#: ../src/lxterminal.c:132
+#: ../src/lxterminal.c:124
 msgid "_Help"
 msgstr "_Pomocník"
 
 #. 4
-#: ../src/lxterminal.c:133
+#: ../src/lxterminal.c:125
 msgid "_New Window"
-msgstr "_Nové okno"
+msgstr "Nové _okno"
 
 #. 5
-#: ../src/lxterminal.c:134
+#: ../src/lxterminal.c:126
 msgid "New T_ab"
-msgstr "Nová k_arta"
+msgstr "Nová _karta"
 
 #. 6
 #. 7
-#: ../src/lxterminal.c:136 ../src/lxterminal.c:176
+#: ../src/lxterminal.c:128 ../src/lxterminal.c:168
 msgid "_Close Tab"
 msgstr "_Zatvoriť kartu"
 
 #. 8
-#: ../src/lxterminal.c:137
+#: ../src/lxterminal.c:129
 msgid "Close _Window"
-msgstr "Zatvoriť _okno"
+msgstr "Zavrieť _okno"
 
 #. 9
-#: ../src/lxterminal.c:138 ../src/lxterminal.c:165
+#: ../src/lxterminal.c:130 ../src/lxterminal.c:157
 msgid "Cop_y"
 msgstr "_Kopírovať"
 
 #. 10
-#: ../src/lxterminal.c:139 ../src/lxterminal.c:166
+#: ../src/lxterminal.c:131 ../src/lxterminal.c:158
 msgid "_Paste"
 msgstr "_Vložiť"
 
 #. 11
-#: ../src/lxterminal.c:140
+#: ../src/lxterminal.c:132
 msgid "Clear scr_ollback"
-msgstr "Skryť p_osuvník"
+msgstr "_Vyčistiť pamäť riadkov"
 
 #. 12
 #. 13
-#: ../src/lxterminal.c:142
+#: ../src/lxterminal.c:134
 msgid "Zoom _In"
-msgstr "Pr_iblížiť"
+msgstr "P_riblížiť"
 
 #. 14
-#: ../src/lxterminal.c:143
+#: ../src/lxterminal.c:135
 msgid "Zoom O_ut"
 msgstr "_Oddialiť"
 
 #. 15
-#: ../src/lxterminal.c:144
+#: ../src/lxterminal.c:136
 msgid "Zoom _Reset"
-msgstr "Obnoviť p_riblíženie"
+msgstr "Pô_vodné priblíženie"
 
 #. 16
 #. 17
-#: ../src/lxterminal.c:146 ../src/lxterminal.c:169
+#: ../src/lxterminal.c:138 ../src/lxterminal.c:161
 msgid "Preference_s"
 msgstr "Na_stavenia"
 
 #. 18
-#: ../src/lxterminal.c:147 ../src/lxterminal.c:171
+#: ../src/lxterminal.c:139 ../src/lxterminal.c:163
 msgid "Na_me Tab"
 msgstr "Po_menovať kartu"
 
 #. 19
-#: ../src/lxterminal.c:148 ../src/lxterminal.c:172
+#: ../src/lxterminal.c:140 ../src/lxterminal.c:164
 msgid "Pre_vious Tab"
-msgstr "_Predošlá karta"
+msgstr "_Predchádzajúca karta"
 
 #. 20
-#: ../src/lxterminal.c:149 ../src/lxterminal.c:173
+#: ../src/lxterminal.c:141 ../src/lxterminal.c:165
 msgid "Ne_xt Tab"
-msgstr "_Nasledovná karta"
+msgstr "Ď_alšia karta"
 
 #. 21
-#: ../src/lxterminal.c:150 ../src/lxterminal.c:174
+#: ../src/lxterminal.c:142 ../src/lxterminal.c:166
 msgid "Move Tab _Left"
 msgstr "Presunúť kartu _vľavo"
 
 #. 22
-#: ../src/lxterminal.c:151 ../src/lxterminal.c:175
+#: ../src/lxterminal.c:143 ../src/lxterminal.c:167
 msgid "Move Tab _Right"
 msgstr "Presunúť kartu vp_ravo"
 
 #. 23
-#: ../src/lxterminal.c:152
+#: ../src/lxterminal.c:144
 msgid "_About"
 msgstr "O _aplikácii"
 
-#: ../src/lxterminal.c:160
+#: ../src/lxterminal.c:152
 msgid "New _Window"
 msgstr "Nové _okno"
 
-#: ../src/lxterminal.c:161
+#: ../src/lxterminal.c:153
 msgid "New _Tab"
-msgstr "Nová _karta"
+msgstr "Nová k_arta"
 
-#: ../src/lxterminal.c:163
-#, fuzzy
+#: ../src/lxterminal.c:155
 msgid "Open _URL"
-msgstr "Kopírovať _URL"
+msgstr "Otvoriť _URL adresu"
 
-#: ../src/lxterminal.c:164
+#: ../src/lxterminal.c:156
 msgid "Copy _URL"
-msgstr "Kopírovať _URL"
+msgstr "_Kopírovať URL adresu"
 
-#: ../src/lxterminal.c:167
+#: ../src/lxterminal.c:159
 msgid "Cl_ear scrollback"
-msgstr "_Skryť posuvník"
+msgstr "_Vyčistiť pamäť prekladov"
 
-#: ../src/lxterminal.c:599 ../data/lxterminal-preferences.glade.h:56
+#: ../src/lxterminal.c:595 ../data/lxterminal-preferences.glade.h:54
 msgid "Name Tab"
 msgstr "Pomenovať kartu"
 
-#: ../src/lxterminal.c:602
+#: ../src/lxterminal.c:598
 msgid "_Cancel"
 msgstr "_Zrušiť"
 
-#: ../src/lxterminal.c:603
+#: ../src/lxterminal.c:599
 msgid "_OK"
 msgstr "_OK"
 
 #. TRANSLATORS: Replace this string with your names, one name per line.
-#: ../src/lxterminal.c:772
+#: ../src/lxterminal.c:768
 msgid "translator-credits"
 msgstr ""
 "Ivan Masár <helix84@centrum.sk>\n"
-"Miroslav Biňas <mirek@cnl.sk>"
+"Jose Riha <jose1711@gmail.com>"
 
-#: ../src/lxterminal.c:778 ../src/preferences.c:289
+#: ../src/lxterminal.c:774 ../src/preferences.c:289
 #: ../data/lxterminal.desktop.in.h:1
 msgid "LXTerminal"
 msgstr "LXTerminal"
 
-#: ../src/lxterminal.c:780
-#, fuzzy
+#: ../src/lxterminal.c:776
 msgid "Copyright (C) 2008-2018"
-msgstr "Copyright (C) 2008-2017"
+msgstr "Autorské práva (C) 2008-2018"
 
-#: ../src/lxterminal.c:781
+#: ../src/lxterminal.c:777
 msgid "Terminal emulator for LXDE project"
 msgstr "Emulátor terminálu pre projekt LXDE"
 
-#: ../src/lxterminal.c:812
+#: ../src/lxterminal.c:808
 msgid "LXTerminal Terminal Emulator"
-msgstr ""
+msgstr "Emulátor terminálu LXTerminal"
 
-#: ../src/lxterminal.c:846
+#: ../src/lxterminal.c:842
 #, c-format
 msgid "You are about to close %d tabs. Are you sure you want to continue?"
-msgstr "Chystáte sa zatvoriť %d kariet. Ste si istý, že chcete pokračovať?"
+msgstr "Chystáte sa zatvoriť %d kariet. Naozaj chcete pokračovať?"
 
-#: ../src/lxterminal.c:847
+#: ../src/lxterminal.c:843
 msgid "Confirm close"
 msgstr "Potvrdiť zatvorenie"
 
@@ -212,7 +210,7 @@ msgstr "Vpravo"
 
 #: ../data/lxterminal-preferences.glade.h:5
 msgid "LXTerminal Preferences"
-msgstr "Nastavenia"
+msgstr "Možnosti"
 
 #: ../data/lxterminal-preferences.glade.h:6
 msgid "Terminal font"
@@ -220,232 +218,223 @@ msgstr "Písmo terminálu"
 
 #: ../data/lxterminal-preferences.glade.h:7
 msgid "Background"
-msgstr "Pozadie:"
+msgstr "Pozadie"
 
 #: ../data/lxterminal-preferences.glade.h:8
 msgid "Foreground"
-msgstr "Popredie:"
+msgstr "Popredie"
 
 #: ../data/lxterminal-preferences.glade.h:9
 msgid "Allow bold font"
 msgstr "Povoliť hrubé písmo"
 
 #: ../data/lxterminal-preferences.glade.h:10
-msgid "Bold is bright"
-msgstr ""
-
-#: ../data/lxterminal-preferences.glade.h:11
 msgid "Cursor blink"
 msgstr "Blikanie kurzora"
 
-#: ../data/lxterminal-preferences.glade.h:12
+#: ../data/lxterminal-preferences.glade.h:11
 msgid "Cursor style"
 msgstr "Štýl kurzora"
 
-#: ../data/lxterminal-preferences.glade.h:13
+#: ../data/lxterminal-preferences.glade.h:12
 msgid "Block"
 msgstr "Blok"
 
-#: ../data/lxterminal-preferences.glade.h:14
+#: ../data/lxterminal-preferences.glade.h:13
 msgid "Underline"
 msgstr "Podčiarknutie"
 
-#: ../data/lxterminal-preferences.glade.h:15
+#: ../data/lxterminal-preferences.glade.h:14
 msgid "Audible bell"
 msgstr "Prehrať znak pípnutie"
 
-#: ../data/lxterminal-preferences.glade.h:16
-#, fuzzy
-msgid "Visual bell"
-msgstr "Prehrať znak pípnutie"
-
-#: ../data/lxterminal-preferences.glade.h:17
+#: ../data/lxterminal-preferences.glade.h:15
 msgid "Black"
 msgstr "Čierna"
 
-#: ../data/lxterminal-preferences.glade.h:18
+#: ../data/lxterminal-preferences.glade.h:16
 msgid "Red"
 msgstr "Červená"
 
-#: ../data/lxterminal-preferences.glade.h:19
+#: ../data/lxterminal-preferences.glade.h:17
 msgid "Green"
-msgstr "Zelená"
+msgstr "Zelený"
 
-#: ../data/lxterminal-preferences.glade.h:20
+#: ../data/lxterminal-preferences.glade.h:18
 msgid "Brown"
 msgstr "Hnedá"
 
-#: ../data/lxterminal-preferences.glade.h:21
+#: ../data/lxterminal-preferences.glade.h:19
 msgid "Blue"
 msgstr "Modrá"
 
-#: ../data/lxterminal-preferences.glade.h:22
+#: ../data/lxterminal-preferences.glade.h:20
 msgid "Magenta"
 msgstr "Purpurová"
 
-#: ../data/lxterminal-preferences.glade.h:23
+#: ../data/lxterminal-preferences.glade.h:21
 msgid "Cyan"
-msgstr "Tyrkysová"
+msgstr "Azúrová"
 
-#: ../data/lxterminal-preferences.glade.h:24
+#: ../data/lxterminal-preferences.glade.h:22
 msgid "Gray"
 msgstr "Šedá"
 
-#: ../data/lxterminal-preferences.glade.h:25
+#: ../data/lxterminal-preferences.glade.h:23
 msgid "Darkgray"
 msgstr "Tmavošedá"
 
-#: ../data/lxterminal-preferences.glade.h:26
+#: ../data/lxterminal-preferences.glade.h:24
 msgid "Bright Red"
 msgstr "Svetločervená"
 
-#: ../data/lxterminal-preferences.glade.h:27
+#: ../data/lxterminal-preferences.glade.h:25
 msgid "Bright Green"
 msgstr "Svetlozelená"
 
-#: ../data/lxterminal-preferences.glade.h:28
+#: ../data/lxterminal-preferences.glade.h:26
 msgid "Yellow"
 msgstr "Žltá"
 
-#: ../data/lxterminal-preferences.glade.h:29
+#: ../data/lxterminal-preferences.glade.h:27
 msgid "Bright Blue"
 msgstr "Svetlomodrá"
 
-#: ../data/lxterminal-preferences.glade.h:30
+#: ../data/lxterminal-preferences.glade.h:28
 msgid "Bright Magenta"
-msgstr "Svetlopurpurová"
+msgstr "Svetlá purpurová"
 
-#: ../data/lxterminal-preferences.glade.h:31
+#: ../data/lxterminal-preferences.glade.h:29
 msgid "Bright Cyan"
-msgstr "Svetlotyrkysová"
+msgstr "Svetlá azúrová"
 
-#: ../data/lxterminal-preferences.glade.h:32
+#: ../data/lxterminal-preferences.glade.h:30
 msgid "White"
 msgstr "Biela"
 
-#: ../data/lxterminal-preferences.glade.h:33
+#: ../data/lxterminal-preferences.glade.h:31
 msgid "Palette"
 msgstr "Paleta"
 
-#: ../data/lxterminal-preferences.glade.h:34
+#: ../data/lxterminal-preferences.glade.h:32
 msgid "Palette Preset"
-msgstr "Obnoviť paletu"
+msgstr "Prednastavenie palety"
 
-#: ../data/lxterminal-preferences.glade.h:35
+#: ../data/lxterminal-preferences.glade.h:33
 msgid "Style"
 msgstr "Štýl"
 
-#: ../data/lxterminal-preferences.glade.h:36
+#: ../data/lxterminal-preferences.glade.h:34
 msgid "Tab panel position"
 msgstr "Umiestnenie panelu kariet"
 
-#: ../data/lxterminal-preferences.glade.h:37
+#: ../data/lxterminal-preferences.glade.h:35
 msgid "Scrollback lines"
-msgstr "Pamäť riadkov:"
+msgstr "Pamäť riadkov"
+
+#: ../data/lxterminal-preferences.glade.h:36
+msgid "Hide scroll bar"
+msgstr "Skryť posuvník"
+
+#: ../data/lxterminal-preferences.glade.h:37
+msgid "Hide menu bar"
+msgstr "Skryť panel ponuky"
 
 #: ../data/lxterminal-preferences.glade.h:38
-msgid "Hide scroll bar"
-msgstr "Skryť posuvník:"
-
-#: ../data/lxterminal-preferences.glade.h:39
-msgid "Hide menu bar"
-msgstr "Skryť menu:"
-
-#: ../data/lxterminal-preferences.glade.h:40
 msgid "Hide Close buttons"
 msgstr "Skryť tlačidlá Zatvoriť"
 
-#: ../data/lxterminal-preferences.glade.h:41
+#: ../data/lxterminal-preferences.glade.h:39
 msgid "Hide mouse pointer"
-msgstr "Skryť ukazovateľ myši"
+msgstr "Skryť kurzor myši"
 
-#: ../data/lxterminal-preferences.glade.h:42
+#: ../data/lxterminal-preferences.glade.h:40
 msgid "Default window size"
 msgstr "Predvolená veľkosť okna"
 
-#: ../data/lxterminal-preferences.glade.h:43
+#: ../data/lxterminal-preferences.glade.h:41
 msgid "x"
 msgstr "x"
 
-#: ../data/lxterminal-preferences.glade.h:44
+#: ../data/lxterminal-preferences.glade.h:42
 msgid "Display"
 msgstr "Displej"
 
-#: ../data/lxterminal-preferences.glade.h:45
+#: ../data/lxterminal-preferences.glade.h:43
 msgid "Select-by-word characters"
 msgstr "Znaky na výber po slovách"
 
-#: ../data/lxterminal-preferences.glade.h:46
+#: ../data/lxterminal-preferences.glade.h:44
 msgid "Disable menu shortcut key (F10 by default)"
-msgstr "Vypnúť klávesovú skratku menu (štandardne F10)"
+msgstr "Vypnúť klávesovú skratku ponuky (štandardne F10)"
+
+#: ../data/lxterminal-preferences.glade.h:45
+msgid "Disable using Alt-n for tabs and menu"
+msgstr "Vypnúť použitie Alt-n v kartách a ponuke"
+
+#: ../data/lxterminal-preferences.glade.h:46
+msgid "Disable confirmation before closing a window with multiple tabs"
+msgstr "Vypnúť zobrazenie potvrdenia pri zatváraní okna s viacerými kartami"
 
 #: ../data/lxterminal-preferences.glade.h:47
-msgid "Disable using Alt-n for tabs and menu"
-msgstr "Vypnúť použitie Alt-n na prepínanie kariet a otvorenie menu"
-
-#: ../data/lxterminal-preferences.glade.h:48
-msgid "Disable confirmation before closing a window with multiple tabs"
-msgstr "Vypnúť potvrdenie pred zatvorením okna s viacerými kartami"
-
-#: ../data/lxterminal-preferences.glade.h:49
 msgid "Advanced"
 msgstr "Pokročilé"
 
-#: ../data/lxterminal-preferences.glade.h:50
+#: ../data/lxterminal-preferences.glade.h:48
 msgid "New Window"
 msgstr "Nové okno"
 
-#: ../data/lxterminal-preferences.glade.h:51
+#: ../data/lxterminal-preferences.glade.h:49
 msgid "New Tab"
 msgstr "Nová karta"
 
-#: ../data/lxterminal-preferences.glade.h:52
+#: ../data/lxterminal-preferences.glade.h:50
 msgid "Close Tab"
 msgstr "Zatvoriť kartu"
 
-#: ../data/lxterminal-preferences.glade.h:53
+#: ../data/lxterminal-preferences.glade.h:51
 msgid "Close Window"
-msgstr "Nové okno"
+msgstr "Zavrieť okno"
 
-#: ../data/lxterminal-preferences.glade.h:54
+#: ../data/lxterminal-preferences.glade.h:52
 msgid "Copy"
 msgstr "Kopírovať"
 
-#: ../data/lxterminal-preferences.glade.h:55
+#: ../data/lxterminal-preferences.glade.h:53
 msgid "Paste"
 msgstr "Vložiť"
 
-#: ../data/lxterminal-preferences.glade.h:57
+#: ../data/lxterminal-preferences.glade.h:55
 msgid "Previous Tab"
-msgstr "Predošlá karta"
+msgstr "Predchádzajúca karta"
 
-#: ../data/lxterminal-preferences.glade.h:58
+#: ../data/lxterminal-preferences.glade.h:56
 msgid "Next Tab"
-msgstr "Nasledujúca karta"
+msgstr "Ďalšia karta"
 
-#: ../data/lxterminal-preferences.glade.h:59
+#: ../data/lxterminal-preferences.glade.h:57
 msgid "Move Tab Left"
 msgstr "Presunúť kartu vľavo"
 
-#: ../data/lxterminal-preferences.glade.h:60
+#: ../data/lxterminal-preferences.glade.h:58
 msgid "Move Tab Right"
 msgstr "Presunúť kartu vpravo"
 
-#: ../data/lxterminal-preferences.glade.h:61
+#: ../data/lxterminal-preferences.glade.h:59
 msgid "Zoom In"
 msgstr "Priblížiť"
 
-#: ../data/lxterminal-preferences.glade.h:62
+#: ../data/lxterminal-preferences.glade.h:60
 msgid "Zoom Out"
 msgstr "Oddialiť"
 
-#: ../data/lxterminal-preferences.glade.h:63
+#: ../data/lxterminal-preferences.glade.h:61
 msgid "Zoom Reset"
-msgstr "Obnoviť priblíženie"
+msgstr "Vynulovať úroveň priblíženia"
 
-#: ../data/lxterminal-preferences.glade.h:64
+#: ../data/lxterminal-preferences.glade.h:62
 msgid "Shortcuts"
-msgstr "Klávesové skratky"
+msgstr "Skratky"
 
 #: ../data/lxterminal.desktop.in.h:2
 msgid "Terminal"
@@ -457,7 +446,7 @@ msgstr "Použiť príkazový riadok"
 
 #: ../data/lxterminal.desktop.in.h:4
 msgid "console;command line;execute;"
-msgstr ""
+msgstr "konzola;príkazový riadok;spustenie;"
 
 #~ msgid "West European"
 #~ msgstr "Západoeurópske"
