@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: lxterminal 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-02 03:38+0200\n"
-"PO-Revision-Date: 2014-12-03 12:15+0000\n"
-"Last-Translator: Wylmer Wang <wantinghard@gmail.com>\n"
+"PO-Revision-Date: 2024-07-21 23:47+0800\n"
+"Last-Translator: ykla <yklaxds@gmail.com>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Poedit 3.4.4\n"
 "X-POOTLE-MTIME: 1417608909.000000\n"
 
 #. 0
@@ -74,17 +74,17 @@ msgstr "清除回滚(_O)"
 #. 13
 #: ../src/lxterminal.c:142
 msgid "Zoom _In"
-msgstr ""
+msgstr "缩小(_I)"
 
 #. 14
 #: ../src/lxterminal.c:143
 msgid "Zoom O_ut"
-msgstr ""
+msgstr "放大(_U)"
 
 #. 15
 #: ../src/lxterminal.c:144
 msgid "Zoom _Reset"
-msgstr ""
+msgstr "重置缩放(_R)"
 
 #. 16
 #. 17
@@ -131,34 +131,35 @@ msgid "New _Tab"
 msgstr "新建标签(_T)"
 
 #: ../src/lxterminal.c:163
-#, fuzzy
 msgid "Open _URL"
-msgstr "复制 _URL"
+msgstr "打开连接(_U)"
 
 #: ../src/lxterminal.c:164
 msgid "Copy _URL"
-msgstr "复制 _URL"
+msgstr "复制连接(_U)"
 
 #: ../src/lxterminal.c:167
 msgid "Cl_ear scrollback"
-msgstr "清除回滚(_E)"
+msgstr "清屏(_E)"
 
 #: ../src/lxterminal.c:599 ../data/lxterminal-preferences.glade.h:56
 msgid "Name Tab"
-msgstr "标签名称"
+msgstr "标签名"
 
 #: ../src/lxterminal.c:602
 msgid "_Cancel"
-msgstr ""
+msgstr "取消(_C)"
 
 #: ../src/lxterminal.c:603
 msgid "_OK"
-msgstr ""
+msgstr "确定(_O)"
 
 #. TRANSLATORS: Replace this string with your names, one name per line.
 #: ../src/lxterminal.c:772
 msgid "translator-credits"
-msgstr "商源纯 <idealities@gmail.com>"
+msgstr ""
+"商源纯 <idealities@gmail.com>\n"
+"ykla <yklaxds@gmail.com>"
 
 #: ../src/lxterminal.c:778 ../src/preferences.c:289
 #: ../data/lxterminal.desktop.in.h:1
@@ -166,9 +167,8 @@ msgid "LXTerminal"
 msgstr "LX 终端"
 
 #: ../src/lxterminal.c:780
-#, fuzzy
 msgid "Copyright (C) 2008-2018"
-msgstr "版权所有 (C) 2008-2017"
+msgstr "版权所有 (C) 2008-2018"
 
 #: ../src/lxterminal.c:781
 msgid "Terminal emulator for LXDE project"
@@ -176,16 +176,16 @@ msgstr "LXDE 计划的终端模拟器"
 
 #: ../src/lxterminal.c:812
 msgid "LXTerminal Terminal Emulator"
-msgstr ""
+msgstr "LXTerminal 终端模拟器"
 
 #: ../src/lxterminal.c:846
 #, c-format
 msgid "You are about to close %d tabs. Are you sure you want to continue?"
-msgstr ""
+msgstr "你即将关闭 %d 个标签页。确定要继续吗？"
 
 #: ../src/lxterminal.c:847
 msgid "Confirm close"
-msgstr ""
+msgstr "确认关闭"
 
 #: ../data/lxterminal-preferences.glade.h:1
 msgid "Top"
@@ -225,7 +225,7 @@ msgstr "允许粗体字"
 
 #: ../data/lxterminal-preferences.glade.h:10
 msgid "Bold is bright"
-msgstr ""
+msgstr "高亮粗体"
 
 #: ../data/lxterminal-preferences.glade.h:11
 msgid "Cursor blink"
@@ -237,7 +237,7 @@ msgstr "光标样式"
 
 #: ../data/lxterminal-preferences.glade.h:13
 msgid "Block"
-msgstr "块"
+msgstr "方块"
 
 #: ../data/lxterminal-preferences.glade.h:14
 msgid "Underline"
@@ -245,85 +245,83 @@ msgstr "下划线"
 
 #: ../data/lxterminal-preferences.glade.h:15
 msgid "Audible bell"
-msgstr "可闻响铃"
+msgstr "声音响铃"
 
 #: ../data/lxterminal-preferences.glade.h:16
-#, fuzzy
 msgid "Visual bell"
-msgstr "可闻响铃"
+msgstr "可视响铃"
 
 #: ../data/lxterminal-preferences.glade.h:17
 msgid "Black"
-msgstr ""
+msgstr "黑"
 
 #: ../data/lxterminal-preferences.glade.h:18
 msgid "Red"
-msgstr ""
+msgstr "红"
 
 #: ../data/lxterminal-preferences.glade.h:19
-#, fuzzy
 msgid "Green"
-msgstr "希腊语"
+msgstr "绿色"
 
 #: ../data/lxterminal-preferences.glade.h:20
 msgid "Brown"
-msgstr ""
+msgstr "棕色"
 
 #: ../data/lxterminal-preferences.glade.h:21
 msgid "Blue"
-msgstr ""
+msgstr "蓝色"
 
 #: ../data/lxterminal-preferences.glade.h:22
 msgid "Magenta"
-msgstr ""
+msgstr "品红色"
 
 #: ../data/lxterminal-preferences.glade.h:23
 msgid "Cyan"
-msgstr ""
+msgstr "青色"
 
 #: ../data/lxterminal-preferences.glade.h:24
 msgid "Gray"
-msgstr ""
+msgstr "灰色"
 
 #: ../data/lxterminal-preferences.glade.h:25
 msgid "Darkgray"
-msgstr ""
+msgstr "深灰色"
 
 #: ../data/lxterminal-preferences.glade.h:26
 msgid "Bright Red"
-msgstr ""
+msgstr "亮红色"
 
 #: ../data/lxterminal-preferences.glade.h:27
 msgid "Bright Green"
-msgstr ""
+msgstr "鲜绿色"
 
 #: ../data/lxterminal-preferences.glade.h:28
 msgid "Yellow"
-msgstr ""
+msgstr "黄色"
 
 #: ../data/lxterminal-preferences.glade.h:29
 msgid "Bright Blue"
-msgstr ""
+msgstr "亮蓝色"
 
 #: ../data/lxterminal-preferences.glade.h:30
 msgid "Bright Magenta"
-msgstr ""
+msgstr "鲜艳的洋红色"
 
 #: ../data/lxterminal-preferences.glade.h:31
 msgid "Bright Cyan"
-msgstr ""
+msgstr "亮青色"
 
 #: ../data/lxterminal-preferences.glade.h:32
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 #: ../data/lxterminal-preferences.glade.h:33
 msgid "Palette"
-msgstr ""
+msgstr "调色盘"
 
 #: ../data/lxterminal-preferences.glade.h:34
 msgid "Palette Preset"
-msgstr ""
+msgstr "调色板预设值"
 
 #: ../data/lxterminal-preferences.glade.h:35
 msgid "Style"
@@ -355,11 +353,11 @@ msgstr "隐藏鼠标指针"
 
 #: ../data/lxterminal-preferences.glade.h:42
 msgid "Default window size"
-msgstr ""
+msgstr "默认窗口大小"
 
 #: ../data/lxterminal-preferences.glade.h:43
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: ../data/lxterminal-preferences.glade.h:44
 msgid "Display"
@@ -371,7 +369,7 @@ msgstr "选取词时会选取以下的字符"
 
 #: ../data/lxterminal-preferences.glade.h:46
 msgid "Disable menu shortcut key (F10 by default)"
-msgstr "禁止菜单快捷键(默认为F10)"
+msgstr "禁止菜单快捷键(默认为 F10)"
 
 #: ../data/lxterminal-preferences.glade.h:47
 msgid "Disable using Alt-n for tabs and menu"
@@ -379,7 +377,7 @@ msgstr "禁止使用 Alt-n 快捷键切换标签和菜单"
 
 #: ../data/lxterminal-preferences.glade.h:48
 msgid "Disable confirmation before closing a window with multiple tabs"
-msgstr ""
+msgstr "关闭有多个标签页的窗口时无需确认"
 
 #: ../data/lxterminal-preferences.glade.h:49
 msgid "Advanced"
@@ -427,15 +425,15 @@ msgstr "标签右移"
 
 #: ../data/lxterminal-preferences.glade.h:61
 msgid "Zoom In"
-msgstr ""
+msgstr "缩小"
 
 #: ../data/lxterminal-preferences.glade.h:62
 msgid "Zoom Out"
-msgstr ""
+msgstr "放大"
 
 #: ../data/lxterminal-preferences.glade.h:63
 msgid "Zoom Reset"
-msgstr ""
+msgstr "重置缩放"
 
 #: ../data/lxterminal-preferences.glade.h:64
 msgid "Shortcuts"
